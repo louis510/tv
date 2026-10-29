@@ -1,0 +1,20 @@
+{
+  "name": "movix-tv-backend",
+  "version": "1.0.0",
+  "description": "Backend Proxy API pour Movix TV Smart TV App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "movix",
+    "smart-tv",
+    "tizen",
+    "proxy"
+  ],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
